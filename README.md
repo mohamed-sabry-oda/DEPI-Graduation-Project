@@ -178,7 +178,9 @@ SQL Server database connection
 
 ---
 
-## 📬 Contact / Author
-
-**Author:** Abdalla mohammed
+##Authors
+This project was developed by:
+- Mohamed Sabry
+- Abdalla Mohammed
+- Mahmoud Mohamed
  
